@@ -1,7 +1,7 @@
 
 # Bank Customer Churn Analysis & Prediction
 
-## 📊 Project Overview
+## Project Overview
 This project analyzes bank customer churn patterns and builds predictive models to identify customers at risk of leaving the bank. By understanding churn factors and predicting future churn, banks can implement targeted retention strategies and reduce customer attrition.
 
 ## Objectives
@@ -10,14 +10,15 @@ This project analyzes bank customer churn patterns and builds predictive models 
 - Provide actionable insights for customer retention strategies
 - Evaluate model performance and select the best predictor
 
-## 📁 Dataset
+##  Dataset
+<a href="https://github.com/ABHI91827/Bank_Churn_Analysis/blob/main/Churn_Modelling.csv">DATASET</a>
 The analysis uses bank customer data including:
 - **Customer Demographics**: Age, gender, geography
 - **Account Information**: Balance, credit score, tenure
 - **Product Usage**: Number of products, credit card status, active membership
 - **Target Variable**: Churn status (0 = Retained, 1 = Churned)
 
-## 🔍 Analysis Workflow
+##  Analysis Workflow
 
 ### 1. Exploratory Data Analysis (EDA)
 - Data cleaning and preprocessing
@@ -46,25 +47,25 @@ Built and evaluated multiple machine learning models:
 - Confusion matrix visualization
 - Feature importance analysis
 
-## 📈 Key Findings
+## Key Findings
 - Identified top factors contributing to customer churn
 - Determined customer segments with highest churn risk
 - Achieved [%86] prediction accuracy with [RandomForestClassifier]
 - Generated actionable retention recommendations
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Programming Language**: Python
 - **Data Analysis**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn, Plotly
 - **Machine Learning**: Scikit-learn
 - **Development Environment**: Jupyter Notebook / Google Colab
 
-## 📊 Results
+##  Results
 - **Best Model**: [RandomForestClassifier] with [86%] accuracy
 - <a href="https://app.powerbi.com/groups/me/reports/4db5cbf0-12e0-4915-b532-e1a04b389ddd?experience=power-bi">DASHBOARD</a>
 
 
-## 👤 Author
+##  Author
 [K ABHISHEK]
 - LinkedIn: [https://linkedin.com/in/abhishek-k-78020a383]
 - GitHub: [https://github.com/ABHI91827]
