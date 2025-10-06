@@ -11,12 +11,12 @@ This project analyzes bank customer churn patterns and builds predictive models 
 - Evaluate model performance and select the best predictor
 
 ##  Dataset
-<a href="https://github.com/ABHI91827/Bank_Churn_Analysis/blob/main/Churn_Modelling.csv">DATASET</a>
 The analysis uses bank customer data including:
 - **Customer Demographics**: Age, gender, geography
 - **Account Information**: Balance, credit score, tenure
 - **Product Usage**: Number of products, credit card status, active membership
 - **Target Variable**: Churn status (0 = Retained, 1 = Churned)
+- <a href="https://github.com/ABHI91827/Bank_Churn_Analysis/blob/main/Churn_Modelling.csv">DATASET</a>
 
 ##  Analysis Workflow
 
@@ -63,9 +63,10 @@ Built and evaluated multiple machine learning models:
 ##  Results
 - **Best Model**: [RandomForestClassifier] with [86%] accuracy
 - <a href="https://app.powerbi.com/groups/me/reports/4db5cbf0-12e0-4915-b532-e1a04b389ddd?experience=power-bi">DASHBOARD</a>
-## Bank churn Analysis
--![image alt](https://github.com/ABHI91827/Bank_Churn_Analysis/blob/347f3e503f582ce30ac0d4f0b153f85a458b8cbd/Screenshot%202025-10-06%20190055.png)
-## predicted churn Analysis
+## Bank churn Analysis:
+![image alt](https://github.com/ABHI91827/Bank_Churn_Analysis/blob/347f3e503f582ce30ac0d4f0b153f85a458b8cbd/Screenshot%202025-10-06%20190055.png)
+## predicted churn Analysis:
+![image alt](https://github.com/ABHI91827/Bank_Churn_Analysis/blob/789836c70b2889a1747fad35a409b6e34d1e607e/Screenshot%202025-10-06%20190125.png)
 
 
 
