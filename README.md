@@ -63,6 +63,10 @@ Built and evaluated multiple machine learning models:
 ##  Results
 - **Best Model**: [RandomForestClassifier] with [86%] accuracy
 - <a href="https://app.powerbi.com/groups/me/reports/4db5cbf0-12e0-4915-b532-e1a04b389ddd?experience=power-bi">DASHBOARD</a>
+## Bank churn Analysis
+-![image alt](https://github.com/ABHI91827/Bank_Churn_Analysis/blob/347f3e503f582ce30ac0d4f0b153f85a458b8cbd/Screenshot%202025-10-06%20190055.png)
+## predicted churn Analysis
+
 
 
 ##  Author
